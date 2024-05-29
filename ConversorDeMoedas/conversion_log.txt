@@ -1,0 +1,3 @@
+2024-04-26 16:32:03 - Conversão de USD para BRL: 0.0
+2024-04-26 16:37:25 - Conversão de USD para BRL: 25745.5
+2024-04-26 16:44:23 - Conversão de BRL para USD: 5826.0
