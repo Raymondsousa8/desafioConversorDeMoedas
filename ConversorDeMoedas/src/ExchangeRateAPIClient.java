@@ -12,7 +12,7 @@ import java.time.format.DateTimeFormatter;
 import com.google.gson.*;
 
 public class ExchangeRateAPIClient {
-    private static final String API_KEY = "53025507d405b0b78119df65";
+    private static final String API_KEY = "sua-chave-aqui";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
     private static final Map<String, String> currencies = new HashMap<>();
     private static final List<String> history = new ArrayList<>();
